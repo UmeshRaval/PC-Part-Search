@@ -1,2 +1,2 @@
 # PCPartCompatible
-Mini Project for Web technology (JS,Bootstrap,PHP,MYSQL)
+Custom version of PC Part Picker Website with local database of parts only (JS,Bootstrap,PHP,MYSQL)
